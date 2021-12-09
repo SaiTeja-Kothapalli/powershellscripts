@@ -1,0 +1,1 @@
+Script for the retrieving the logs stored in the storage account 
